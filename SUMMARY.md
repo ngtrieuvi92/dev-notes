@@ -9,3 +9,5 @@
     * [Backup & Import PostgreSQL Inside Docker Container](database/database-cheatsheet/backup-and-import-postgresql-inside-docker-container.md)
 * [Linux](linux/README.md)
   * [Linux linux swapfile](linux/linux-linux-swapfile.md)
+* [Ansible](ansible/README.md)
+  * [Run Ansible Playbook on MacOS](ansible/run-ansible-playbook-on-macos.md)
