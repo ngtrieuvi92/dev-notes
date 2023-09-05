@@ -2,7 +2,7 @@
 description: Create linux swap
 ---
 
-# Linux linux swapfile
+# Create linux Swapfile
 
 ```
 sudo fallocate -l 4G /swapfile && \
