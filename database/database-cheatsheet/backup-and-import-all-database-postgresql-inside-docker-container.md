@@ -1,8 +1,8 @@
 ---
-description: Backup & Restore PostgreSQL Database running inside a container
+description: Backup/dump & restore/import PostgreSQL Database running inside a container
 ---
 
-# Backup & Import PostgreSQL Inside Docker Container
+# Backup & Import all database PostgreSQL Inside Docker Container
 
 
 
