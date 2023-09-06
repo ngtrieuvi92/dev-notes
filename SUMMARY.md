@@ -8,6 +8,7 @@
   * [docker-compose sample](docker-container/docker-compose-sample/README.md)
     * [postgresql docker compose](docker-container/docker-compose-sample/postgresql-docker-compose.md)
 * [Database](database/README.md)
+  * [Check if database is reachable with nc](database/check-if-database-is-reachable-with-nc.md)
   * [PostgreSQL](database/postgresql/README.md)
     * [Backup & Import all database PostgreSQL Inside Docker Container](database/database-cheatsheet/backup-and-import-all-database-postgresql-inside-docker-container.md)
     * [PostgreSQL - Create user & grant permission on a database](database/postgresql/postgresql-create-user-and-grant-permission-on-a-database.md)
