@@ -1,6 +1,8 @@
 # Dump & import Mysql database inside container
 
-```
+
+
+```bash
 # backup
 
 MYSQL_CONTAINER=$(docker ps --filter ancestor=mysql:5.7 -q)
