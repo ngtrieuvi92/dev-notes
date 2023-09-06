@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Dev Notes](README.md)
+* [📓 Dev Notes](README.md)
   * [Buy me a coffee](dev-notes/buy-me-a-coffee.md)
 * [Docker Container](docker-container/README.md)
   * [Add User to Docker Group](docker-container/add-user-to-docker-group.md)
