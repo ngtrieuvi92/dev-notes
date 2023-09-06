@@ -32,3 +32,9 @@
 ## Development
 
 * [Development Notes](development/development-notes.md)
+
+## My Resources
+
+* [Blog](https://vinguyen.blog/)
+* [Geek Tools](https://geektool.dev/)
+* [Stakingboard](https://www.stakingboard.com/)
