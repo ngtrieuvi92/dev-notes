@@ -12,6 +12,7 @@
   * [PostgreSQL](database/postgresql/README.md)
     * [Backup & Import all database PostgreSQL Inside Docker Container](database/database-cheatsheet/backup-and-import-all-database-postgresql-inside-docker-container.md)
     * [PostgreSQL - Create user & grant permission on a database](database/postgresql/postgresql-create-user-and-grant-permission-on-a-database.md)
+    * [PostgeSQL - Backup database via remote ssh server](database/postgresql/postgesql-backup-database-via-remote-ssh-server.md)
   * [Mysql](database/database-cheatsheet/README.md)
     * [Mysql - Create user & grant permission on a database](database/mysql/mysql-create-user-and-grant-permission-on-a-database.md)
     * [Dump & import Mysql database inside container](database/database-cheatsheet/dump-and-import-mysql-database-inside-container.md)
