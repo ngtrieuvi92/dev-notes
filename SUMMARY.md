@@ -15,6 +15,7 @@
     * [Mysql - Create user & grant permission on a database](database/mysql/mysql-create-user-and-grant-permission-on-a-database.md)
     * [Dump & import Mysql database inside container](database/database-cheatsheet/dump-and-import-mysql-database-inside-container.md)
 * [Linux](linux/README.md)
+  * [Rsync - copy file on remote server to local](linux/rsync-copy-file-on-remote-server-to-local.md)
   * [Tunnel all docker ports on remote server to localhost](linux/tunnel-all-docker-ports-on-remote-server-to-localhost.md)
   * [Create linux Swapfile](linux/linux-linux-swapfile.md)
 * [Ansible](ansible/README.md)
