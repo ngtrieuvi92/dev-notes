@@ -2,7 +2,7 @@
 description: tunnel all ports of running container on a remote server to localhost
 ---
 
-# 🖥 Tunnel all docker ports on remote server to localhost
+# Tunnel all docker ports on remote server to localhost
 
 #### tunnel.sh content
 
@@ -30,7 +30,10 @@ ps S  | grep "ssh -N -L " | awk '{print $1}' |xargs kill -9
 
 ```
 chmod +x tunnel.sh
-.tunnel.sh ssh_remote_server
-# 
+# Tunnel all port of containers run on remote server
+./tunnel.sh ssh_remote_server
+
+# Tunnel all port of containers & another port
+./tunnel.sh ssh_remote_server 808 
 ```
 
