@@ -22,5 +22,4 @@
   * [Create linux Swapfile](linux/linux-linux-swapfile.md)
 * [Ansible](ansible/README.md)
   * [Run Ansible Playbook on MacOS](ansible/run-ansible-playbook-on-macos.md)
-* [Git](git/README.md)
-  * [git checkout](git/git-checkout.md)
+* [Git](git.md)
