@@ -38,3 +38,4 @@
 * [Blog](https://vinguyen.blog/)
 * [Geek Tools](https://geektool.dev/)
 * [Stakingboard](https://www.stakingboard.com/)
+* [Dev Note Github Repo](https://github.com/ngtrieuvi92/dev-notes)
