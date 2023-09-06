@@ -8,8 +8,6 @@
 * [Docker Container](deployment-and-operation/docker-container/README.md)
   * [Add User to Docker Group](deployment-and-operation/docker-container/add-user-to-docker-group.md)
   * [Clean up unused docker images](deployment-and-operation/docker-container/clean-up-unused-docker-images.md)
-  * [docker-compose sample](deployment-and-operation/docker-container/docker-compose-sample/README.md)
-    * [postgresql docker compose](deployment-and-operation/docker-container/docker-compose-sample/postgresql-docker-compose.md)
 * [Git](deployment-and-operation/git.md)
 * [Ansible](deployment-and-operation/ansible/README.md)
   * [Run Ansible Playbook on MacOS](deployment-and-operation/ansible/run-ansible-playbook-on-macos.md)
@@ -28,6 +26,8 @@
     * [Mysql - Create user & grant permission on a database](deployment-and-operation/database/mysql/mysql-create-user-and-grant-permission-on-a-database.md)
     * [Dump & import Mysql database inside container](deployment-and-operation/database/mysql/dump-and-import-mysql-database-inside-container.md)
     * [Mysql - Dump all Mysql database from Mysql](deployment-and-operation/database/mysql/mysql-dump-all-mysql-database-from-mysql.md)
+* [Docker-compose samples](deployment-and-operation/docker-compose-samples/README.md)
+  * [Docker-compose -  PostgreSQL](deployment-and-operation/docker-compose-samples/docker-compose-postgresql.md)
 
 ## Development
 
