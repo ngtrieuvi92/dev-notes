@@ -14,6 +14,7 @@
   * [Mysql](database/database-cheatsheet/README.md)
     * [Mysql - Create user & grant permission on a database](database/mysql/mysql-create-user-and-grant-permission-on-a-database.md)
     * [Dump & import Mysql database inside container](database/database-cheatsheet/dump-and-import-mysql-database-inside-container.md)
+    * [Mysql - Dump all Mysql database from Mysql](database/mysql/mysql-dump-all-mysql-database-from-mysql.md)
 * [Linux](linux/README.md)
   * [Linux - add user to sudo group](linux/linux-add-user-to-sudo-group.md)
   * [Rsync - copy file on remote server to local](linux/rsync-copy-file-on-remote-server-to-local.md)
