@@ -16,6 +16,7 @@
   * [Rsync - copy file on remote server to local](deployment-and-operation/linux/rsync-copy-file-on-remote-server-to-local.md)
   * [Tunnel all docker ports on remote server to localhost](deployment-and-operation/linux/tunnel-all-docker-ports-on-remote-server-to-localhost.md)
   * [Create linux Swapfile](deployment-and-operation/linux/create-linux-swapfile.md)
+  * [rename a file to folder name](deployment-and-operation/linux/rename-a-file-to-folder-name.md)
 * [Database](deployment-and-operation/database/README.md)
   * [Check if database is reachable with nc](deployment-and-operation/database/check-if-database-is-reachable-with-nc.md)
   * [PostgreSQL](deployment-and-operation/database/postgresql/README.md)
