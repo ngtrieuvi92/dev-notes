@@ -10,6 +10,7 @@
   * [Clean up unused docker images](deployment-and-operation/docker-container/clean-up-unused-docker-images.md)
 * [Git](deployment-and-operation/git.md)
 * [Ansible](deployment-and-operation/ansible/README.md)
+  * [Ansible - Setup fresh new ubuntu server](deployment-and-operation/ansible/ansible-setup-fresh-new-ubuntu-server.md)
   * [Run Ansible Playbook on MacOS](deployment-and-operation/ansible/run-ansible-playbook-on-macos.md)
 * [Linux](deployment-and-operation/linux/README.md)
   * [Linux - add user to sudo group](deployment-and-operation/linux/linux-add-user-to-sudo-group.md)
