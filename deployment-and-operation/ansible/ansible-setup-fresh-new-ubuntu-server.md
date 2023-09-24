@@ -20,7 +20,7 @@ description: >-
   hosts: aws_node_01
   become: true
   roles:
-    - dev_setup_ubuntu_server
+    - ngtrieuvi92.setup_ubuntu_sever
     - ansible-node-exporter
     - role: geerlingguy.docker
       become: true
