@@ -33,6 +33,7 @@
     * [Mysql - Dump all Mysql database from Mysql](deployment-and-operation/database/mysql/mysql-dump-all-mysql-database-from-mysql.md)
 * [Docker-compose samples](deployment-and-operation/docker-compose-samples/README.md)
   * [Docker-compose -  PostgreSQL](deployment-and-operation/docker-compose-samples/docker-compose-postgresql.md)
+  * [Docker-compose caddy as reverse proxy](deployment-and-operation/docker-compose-samples/docker-compose-caddy-as-reverse-proxy.md)
 
 ## Development
 
