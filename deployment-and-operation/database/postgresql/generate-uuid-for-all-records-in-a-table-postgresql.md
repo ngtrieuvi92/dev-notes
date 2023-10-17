@@ -3,14 +3,14 @@
 1.  **Enable the `uuid-ossp` extension** (if not already enabled):
 
     ```sql
-    sqlCopy codeCREATE EXTENSION IF NOT EXISTS "uuid-ossp";
+    CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
     ```
 2.  **Add a UUID column to your table**:
 
     Let's assume you have a table called `my_table` and you want to add a UUID column named `uuid_column`. You can use the following SQL command to add the column:
 
     ```sql
-    sqlCopy codeALTER TABLE my_table
+    ALTER TABLE my_table
     ADD COLUMN uuid_column UUID DEFAULT uuid_generate_v4();
     ```
 
@@ -20,7 +20,7 @@
     To populate the newly added UUID column with UUIDs for all existing rows, you can use an `UPDATE` statement:
 
     ```sql
-    sqlCopy codeUPDATE my_table
+    UPDATE my_table
     SET uuid_column = uuid_generate_v4();
     ```
 
@@ -30,6 +30,6 @@
     By default, the UUID column will allow `NULL` values. If you want to enforce that the UUID column cannot be `NULL`, you can use the following SQL command:
 
     ```sql
-    sqlCopy codeALTER TABLE my_table
+    ALTER TABLE my_table
     ALTER COLUMN uuid_column SET NOT NULL;
     ```
