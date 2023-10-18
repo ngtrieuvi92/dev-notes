@@ -23,7 +23,7 @@
 * [Database](deployment-and-operation/database/README.md)
   * [Check if database is reachable with nc](deployment-and-operation/database/check-if-database-is-reachable-with-nc.md)
   * [PostgreSQL](deployment-and-operation/database/postgresql/README.md)
-    * [PostgreSQL - Create a new auto-increment column](deployment-and-operation/database/postgresql/postgresql-create-a-new-auto-increment-column.md)
+    * [PostgreSQL - Create a new primary key auto-increment column](deployment-and-operation/database/postgresql/postgresql-create-a-new-primary-key-auto-increment-column.md)
     * [Generate uuid for all records in a table PostgreSQL](deployment-and-operation/database/postgresql/generate-uuid-for-all-records-in-a-table-postgresql.md)
     * [Backup & Import all database PostgreSQL Inside Docker Container](deployment-and-operation/database/postgresql/backup-and-import-all-database-postgresql-inside-docker-container.md)
     * [Backup & Import single database PostgreSQL Inside Docker Container](deployment-and-operation/database/postgresql/backup-and-import-single-database-postgresql-inside-docker-container.md)

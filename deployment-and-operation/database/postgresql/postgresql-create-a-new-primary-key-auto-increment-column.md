@@ -1,4 +1,4 @@
-# PostgreSQL - Create a new auto-increment column
+# PostgreSQL - Create a new primary key auto-increment column
 
 **Method 1: Using the `SERIAL` data type (Pre-PostgreSQL 10):**
 
