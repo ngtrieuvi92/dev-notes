@@ -36,6 +36,8 @@
 * [Docker-compose samples](deployment-and-operation/docker-compose-samples/README.md)
   * [Docker-compose -  PostgreSQL](deployment-and-operation/docker-compose-samples/docker-compose-postgresql.md)
   * [Docker-compose caddy as reverse proxy](deployment-and-operation/docker-compose-samples/docker-compose-caddy-as-reverse-proxy.md)
+* [Ngnix](deployment-and-operation/ngnix.md)
+* [Nginx - 504 Gateway Timeout error using Nginx as Proxy](deployment-and-operation/nginx-504-gateway-timeout-error-using-nginx-as-proxy.md)
 
 ## Development
 
