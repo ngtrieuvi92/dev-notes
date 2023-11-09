@@ -9,6 +9,7 @@
   * [Add User to Docker Group](deployment-and-operation/docker-container/add-user-to-docker-group.md)
   * [Clean up unused docker images](deployment-and-operation/docker-container/clean-up-unused-docker-images.md)
   * [Backup Container](deployment-and-operation/docker-container/backup-container.md)
+  * [Truncate docker log](deployment-and-operation/docker-container/truncate-docker-log.md)
 * [Git](deployment-and-operation/git.md)
 * [Ansible](deployment-and-operation/ansible/README.md)
   * [Ansible - Setup fresh new ubuntu server](deployment-and-operation/ansible/ansible-setup-fresh-new-ubuntu-server.md)
