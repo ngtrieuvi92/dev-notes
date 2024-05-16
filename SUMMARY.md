@@ -5,6 +5,7 @@
 
 ## Deployment & Operation
 
+* [Download file from server via nginx docker](deployment-and-operation/download-file-from-server-via-nginx-docker.md)
 * [Docker Container](deployment-and-operation/docker-container/README.md)
   * [Add User to Docker Group](deployment-and-operation/docker-container/add-user-to-docker-group.md)
   * [Clean up unused docker images](deployment-and-operation/docker-container/clean-up-unused-docker-images.md)
