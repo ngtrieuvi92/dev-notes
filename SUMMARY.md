@@ -5,7 +5,6 @@
 
 ## Deployment & Operation
 
-* [Download file from server via nginx docker](deployment-and-operation/download-file-from-server-via-nginx-docker.md)
 * [Docker Container](deployment-and-operation/docker-container/README.md)
   * [Add User to Docker Group](deployment-and-operation/docker-container/add-user-to-docker-group.md)
   * [Clean up unused docker images](deployment-and-operation/docker-container/clean-up-unused-docker-images.md)
@@ -38,6 +37,7 @@
     * [Mysql - Dump all Mysql database from Mysql](deployment-and-operation/database/mysql/mysql-dump-all-mysql-database-from-mysql.md)
 * [Ngnix](deployment-and-operation/ngnix/README.md)
   * [Nginx - 504 Gateway Timeout error using Nginx as Proxy](deployment-and-operation/ngnix/nginx-504-gateway-timeout-error-using-nginx-as-proxy.md)
+  * [Download file from server via nginx docker](deployment-and-operation/ngnix/download-file-from-server-via-nginx-docker.md)
 
 ***
 

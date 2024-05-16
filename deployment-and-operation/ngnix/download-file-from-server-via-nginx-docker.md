@@ -2,11 +2,11 @@
 
 Crete struct folder like this:&#x20;
 
-<figure><img src="../.gitbook/assets/CleanShot 2024-05-16 at 15.45.08@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CleanShot 2024-05-16 at 15.45.08@2x.png" alt=""><figcaption></figcaption></figure>
 
 1. Put all your download files into **files**  folder
 
-<figure><img src="../.gitbook/assets/CleanShot 2024-05-16 at 15.42.55@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CleanShot 2024-05-16 at 15.42.55@2x.png" alt=""><figcaption></figcaption></figure>
 
 
 
