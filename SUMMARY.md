@@ -46,6 +46,7 @@
   * [docker-compose -  PostgreSQL](docker-compose-samples/docker-compose-postgresql.md)
   * [docker-compose caddy as reverse proxy](docker-compose-samples/docker-compose-caddy-as-reverse-proxy.md)
 * [Homelab](homelab/README.md)
+  * [Rasberry Pi 4B - Bookworm HDMI config](homelab/rasberry-pi-4b-bookworm-hdmi-config.md)
   * [Waveshare 3.5" display on Pi 4 -Bookworm 64 Bit](homelab/waveshare-3.5-display-on-pi-4-bookworm-64-bit.md)
 
 ## Development
