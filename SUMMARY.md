@@ -45,6 +45,8 @@
   * [docker-compose - n8n](docker-compose-samples/docker-compose-n8n.md)
   * [docker-compose -  PostgreSQL](docker-compose-samples/docker-compose-postgresql.md)
   * [docker-compose caddy as reverse proxy](docker-compose-samples/docker-compose-caddy-as-reverse-proxy.md)
+* [Homelab](homelab/README.md)
+  * [Waveshare 3.5" display on Pi 4 -Bookworm 64 Bit](homelab/waveshare-3.5-display-on-pi-4-bookworm-64-bit.md)
 
 ## Development
 
