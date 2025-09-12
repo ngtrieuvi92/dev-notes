@@ -31,6 +31,7 @@
     * [Backup & Import single database PostgreSQL Inside Docker Container](deployment-and-operation/database/postgresql/backup-and-import-single-database-postgresql-inside-docker-container.md)
     * [PostgreSQL - Create user & grant permission on a database](deployment-and-operation/database/postgresql/postgresql-create-user-and-grant-permission-on-a-database.md)
     * [PostgeSQL - Backup database via remote ssh server](deployment-and-operation/database/postgresql/postgesql-backup-database-via-remote-ssh-server.md)
+    * [Clean up pg walfile](deployment-and-operation/database/postgresql/clean-up-pg-walfile.md)
   * [Mysql](deployment-and-operation/database/mysql/README.md)
     * [Mysql - Create user & grant permission on a database](deployment-and-operation/database/mysql/mysql-create-user-and-grant-permission-on-a-database.md)
     * [Dump & import Mysql database inside container](deployment-and-operation/database/mysql/dump-and-import-mysql-database-inside-container.md)
